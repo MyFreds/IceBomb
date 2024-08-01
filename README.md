@@ -12,7 +12,7 @@
   <img src="https://github.com/MyFreds/IceBomb/blob/main/icon.png" alt="Logo" width="80" height="80">
   <h3>IceBomb</h3>
   <p align="center">
-    DiscordControlPanel gives admins the power to manage their Minecraft servers directly from Discord. With easy and intuitive commands, server management becomes more efficient and enjoyable.
+    Added Ice Bomb Items to PocketMine-MP Software.
 
 
 [View in Poggit](https://poggit.pmmp.io/ci/MyFreds/IceBomb/IceBomb) · [Report a bug](https://github.com/MyFreds/IceBomb/issues)
