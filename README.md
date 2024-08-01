@@ -37,5 +37,5 @@ CONTACT
 - Email: id.luxy.store@gmail.com
 
 CREDIT
-- Icon by [Freepix - Flaticon](https://www.flaticon.com/search?word=Discord)
+- Icon by [Minecraft Wiki](https://minecraft.wiki/)
 
